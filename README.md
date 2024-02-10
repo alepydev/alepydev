@@ -21,6 +21,6 @@
 - Colaboración efectiva en equipos multidisciplinarios.
 
 ## Contacto 📫
-¡Me encantaría conectar contigo y hablar sobre Python, desarrollo web o cualquier cosa relacionada! Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/tu-usuario) o [Twitter](https://twitter.com/tu-usuario).
+¡Me encantaría conectar contigo y hablar sobre Python, desarrollo web o cualquier cosa relacionada! Puedes encontrarme en [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alejandraavilancasta%C3%B1o/) o [Twitter](https://twitter.com/tu-usuario).
 
 ¡Gracias por visitar mi perfil! 👋
