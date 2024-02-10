@@ -2,7 +2,7 @@
 
 # Perfil de Python Developer 🐍
 
-¡Hola! Soy [Tu Nombre], un apasionado desarrollador de Python con experiencia en el desarrollo de software y soluciones basadas en datos. Aquí hay un vistazo a lo que hago:
+¡Hola! Soy [Tu Nombre] 🙍‍♀️, un apasionado desarrollador de Python con experiencia en el desarrollo de software y soluciones basadas en datos. Aquí hay un vistazo a lo que hago:
 
 ## Lenguajes y Tecnologías que Manejo 🚀
 - **Python**: Desarrollo de backend, scripts, análisis de datos.
