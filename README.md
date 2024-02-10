@@ -5,6 +5,7 @@
 ¡Hola! Soy [Tu Nombre] 🙍‍♀️, un apasionado desarrollador de Python con experiencia en el desarrollo de software y soluciones basadas en datos. Aquí hay un vistazo a lo que hago:
 
 ## Lenguajes y Tecnologías que Manejo 🚀
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 - **Python**: Desarrollo de backend, scripts, análisis de datos.
 - **SQL**: Manejo de bases de datos relacionales.
 - **Django y Flask**: Desarrollo de aplicaciones web.
